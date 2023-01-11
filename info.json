@@ -1,0 +1,40 @@
+{
+    "name": "Eddie Hernandez",
+    "linkedin": "www.linkedin.com/in/eddiehernandez-hi",
+    "github": "https://github.com/eddie-hernandez",
+    "email": "edde.hernandez115@gmail.com",
+    "resume": "https://tomatohammado.github.io/assets/Malik-Hammad-Resume.pdf",
+    "proficientTechnologies": [
+        "Javascript",
+        "Node",
+        "Python",
+        "HTML",
+        "CSS"
+    ],
+    "otherSkills": [
+        "Logic Pro X",
+        "Adobe Suite",
+        "Google Suite",
+        "FileMaker Pro",
+        "GarageBand"
+    ],
+    "interests": [
+        "Music Production",
+        "Films",
+        "Cooking",
+        "Natural Wine",
+        "Rock Climbing",
+        "Biking"
+    ],
+    "softSkills": [
+        "Team-building",
+        "Conflict Resolution",
+        "Emphathetic Listening",
+        "Quick Adaptability",
+        "Emotional Intelligence",
+        "Rapport-building",
+        "Detail-Oriented",
+        "Innovative",
+        "Friendlieness"
+    ]
+}
